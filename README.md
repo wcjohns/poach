@@ -3,15 +3,15 @@ poach
 
 sous vide egg making system for raspberry pi
 
+Install needed libraries:
 
-sudo apt-get install python-pip
-sudo pip install flask
-sudo pip install flask
-sudo pip install Flask-WTF
+    sudo apt-get install python-pip
+    sudo pip install flask
+    sudo pip install flask
+    sudo pip install Flask-WTF
 
+Run:
 
-Run by doing:
-python sousvide_webap.py
+    python sousvide_webap.py
 
-
-Point your browser to: http://localhost:8082
+By default, this is likely at: http://localhost:8082
