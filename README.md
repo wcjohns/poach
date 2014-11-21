@@ -7,7 +7,6 @@ Install needed libraries:
 
     sudo apt-get install python-pip
     sudo pip install flask
-    sudo pip install flask
     sudo pip install Flask-WTF
 
 Run:
